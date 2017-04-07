@@ -1,8 +1,8 @@
 
 // Title: 		AutoFox
 // Purpose:		Automates Firefox for automated data entry
-// Related:		Firefox WebDriver, JUnit, Selenium
-// Disclaimer:	Not plug-n-play. Script was built for a specific task on specific website.
+// Dependencies:	Firefox WebDriver, JUnit, Selenium
+// Disclaimer:		Not plug-n-play. Script was built for a specific task on specific website.
 // Author:		Brian White
 // Date:		July, 2014
 
